@@ -28,7 +28,8 @@ class programa
                 case 1:
                     Console.WriteLine("Digite su nombre: \n");
                     string nombre = Console.ReadLine();
-                    Console.WriteLine("\n Su nombre es: " + nombre);
+                    Console.WriteLine("\n Su nombre es: " + nombre + "\n");
+                    
                     break;
 
                     
